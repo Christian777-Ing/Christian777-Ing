@@ -1,6 +1,6 @@
-# 👋 Christian Zavala
+# Mi Sitio Personal
 
-🎓 Estudiante de Computación en la Escuela Superior Politécnica del Litoral (ESPOL), con interés en desarrollo de software, estructuras de datos e Inteligencia Artificial.  
+👋 Hola soy Christian Zavala. Estudiante de Computación en la Escuela Superior Politécnica del Litoral (ESPOL), con interés en desarrollo de software, estructuras de datos e Inteligencia Artificial.  
 
 Actualmente enfoco mi formación en la construcción de soluciones mediante programación orientada a objetos, desarrollo de proyectos académicos colaborativos y aplicación práctica de tecnologías modernas.
 
