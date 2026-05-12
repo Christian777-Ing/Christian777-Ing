@@ -76,7 +76,7 @@ Java • MySQL • MVC
 
 <br><br>
 
-<a href="https://github.com/TU-USUARIO/simulador-bancario">
+<a href="https://github.com/Christian777-Ing/Proyecto-Simulador-Bancario.git">
 <img src="https://img.shields.io/badge/Repositorio-FF4D4D?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -99,7 +99,7 @@ Python • Scikit-Learn
 
 <br><br>
 
-<a href="https://github.com/TU-USUARIO/modelos-ia">
+<a href="https://github.com/Christian777-Ing/SIC-Aulas-EC03-EC04.git">
 <img src="https://img.shields.io/badge/Repositorio-FF4D4D?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
