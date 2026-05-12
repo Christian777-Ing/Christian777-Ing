@@ -54,19 +54,27 @@ Clean Architecture • MVC Pattern • SOLID • Programación Orientada a Objet
 ---
 
 # 🚀 Proyectos
+
 <div align="center">
 
 <table>
 <tr>
 
-<td width="33%">
+<td width="33%" valign="top">
 
-## 🏦 Simulador Bancario
+<h3>🏦 Simulador Bancario</h3>
 
+<p>
 Aplicación backend desarrollada con arquitectura MVC y persistencia en MySQL para simular operaciones bancarias.
+</p>
 
-### ⚙️ Tecnologías
-`Java` `MySQL` `MVC`
+<b>⚙️ Tecnologías</b>
+
+<br><br>
+
+Java • MySQL • MVC
+
+<br><br>
 
 <a href="https://github.com/TU-USUARIO/simulador-bancario">
 <img src="https://img.shields.io/badge/Repositorio-FF4D4D?style=for-the-badge&logo=github&logoColor=white">
@@ -74,39 +82,45 @@ Aplicación backend desarrollada con arquitectura MVC y persistencia en MySQL pa
 
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
 <h3>🤖 Modelos Predictivos IA</h3>
 
 <p>
-Proyecto enfocado en Machine Learning y análisis de datos.
+Proyecto enfocado en Machine Learning y análisis de datos desarrollado durante Samsung Innovation Campus.
 </p>
 
-<b>⚙️ Tecnologías</b><br>
+<b>⚙️ Tecnologías</b>
+
+<br><br>
+
 Python • Scikit-Learn
 
 <br><br>
 
-<a href="LINK">
+<a href="https://github.com/TU-USUARIO/modelos-ia">
 <img src="https://img.shields.io/badge/Repositorio-FF4D4D?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
 <h3>⚙️ Estructuras y Algoritmos</h3>
 
 <p>
-Optimización de algoritmos y estructuras enfocadas en eficiencia y rendimiento.
+Optimización de algoritmos y estructuras de datos enfocadas en eficiencia y rendimiento.
 </p>
 
-<b>⚙️ Tecnologías</b><br>
+<b>⚙️ Tecnologías</b>
+
+<br><br>
+
 Java • Python
 
 <br><br>
 
-<a href="LINK">
+<a href="https://github.com/TU-USUARIO/estructuras-algoritmos">
 <img src="https://img.shields.io/badge/Repositorio-FF4D4D?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -116,6 +130,7 @@ Java • Python
 </table>
 
 </div>
+
 
 ## 🤖 Modelos Predictivos IA
 
