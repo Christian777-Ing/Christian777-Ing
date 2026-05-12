@@ -87,7 +87,8 @@ Java • MySQL • MVC
 <h3>🤖 Modelos Predictivos IA</h3>
 
 <p>
-Proyecto enfocado en Machine Learning y análisis de datos desarrollado durante Samsung Innovation Campus.
+
+Proyecto enfocado en Machine Learning, análisis y limpieza de datos desarrollado durante Samsung Innovation Campus.
 </p>
 
 <b>⚙️ Tecnologías</b>
@@ -131,52 +132,63 @@ Java • Python
 
 </div>
 
+---
 
-## 🤖 Modelos Predictivos IA
+# 🎓 Formación Académica y Certificaciones
 
-Proyecto enfocado en Machine Learning, análisis y limpieza de datos desarrollado durante Samsung Innovation Campus.
+## 🏛️ Escuela Superior Politécnica del Litoral — ESPOL
 
-### ⚙️ Tecnologías
-`Python` `Scikit-Learn`
+### Ingeniería en Sistemas
 
-<a href="https://github.com/Christian777-Ing/SIC-Aulas-EC03-EC04.git">
-<img src="https://img.shields.io/badge/Repositorio-FF4D4D?style=for-the-badge&logo=github&logoColor=white">
-</a>
+Actualmente cursando la carrera de Ingeniería en Sistemas, fortaleciendo conocimientos en:
 
-</td>
+- 💻 Desarrollo de software y programación orientada a objetos
+- 🧠 Estructuras de datos y optimización de algoritmos
+- 🏗️ Arquitectura de software y patrones de diseño
+- 🌐 Redes, infraestructura y sistemas operativos
+- 📊 Bases de datos y modelado de información
 
-<td width="33%">
-
-## ⚙️ Estructuras y Algoritmos
-
-Implementación y optimización de estructuras de datos y algoritmos enfocados en eficiencia y rendimiento para la creación de una lista de contactos celulares, creado con listas dobles enlazadas.
-
-### ⚙️ Tecnologías
-`Java` 
-
-<a href="https://github.com/Christian777-Ing/Proyecto-Estructura-Grupo13.git">
-<img src="https://img.shields.io/badge/Repositorio-FF4D4D?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-</tr>
-</table>
-
-</div>
+Además, participo en proyectos enfocados en el desarrollo backend, aplicando buenas prácticas de ingeniería de software y diseño modular.
 
 ---
 
-# 🎓 Formación Académica
-
-## 🏛️ ESPOL
-Ingeniería en Sistemas
-
 ## 🤖 Samsung Innovation Campus
-Especialización en Python e Inteligencia Artificial
+
+### Especialización en Python e Inteligencia Artificial
+
+Programa intensivo orientado al desarrollo de soluciones utilizando Inteligencia Artificial y análisis de datos.
+
+#### Áreas trabajadas:
+- Machine Learning
+- Limpieza y procesamiento de datos
+- Modelos predictivos
+- Optimización de algoritmos
+- Desarrollo de proyectos con Python
+
+#### Tecnologías utilizadas:
+`Python` `Scikit-Learn` `Pandas` `Jupyter Notebook`
+
+Durante el programa desarrollé proyectos enfocados en análisis de datos y creación de modelos predictivos aplicados a escenarios reales.
+
+---
 
 ## 🌐 Cisco Networking Academy
-CCNA: Introduction to Networks
+
+### CCNA: Introduction to Networks
+
+Certificación enfocada en fundamentos de redes y comunicación de datos.
+
+#### Competencias adquiridas:
+- Direccionamiento IP y subnetting
+- Configuración básica de routers y switches
+- Protocolos de comunicación
+- Fundamentos de routing & switching
+- Arquitectura y seguridad básica de redes
+
+#### Herramientas y tecnologías:
+`Cisco Packet Tracer` `Networking` `Linux`
+
+Esta formación fortaleció mis conocimientos en infraestructura tecnológica y comunicación entre sistemas.
 
 ---
 
