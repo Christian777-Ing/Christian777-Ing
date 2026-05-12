@@ -107,21 +107,21 @@ Python • Scikit-Learn
 
 <td width="33%" valign="top">
 
-<h3>⚙️ Estructuras y Algoritmos</h3>
+<h3>⚙️ Proyecto-Estructura-Grupo13</h3>
 
 <p>
-Optimización de algoritmos y estructuras de datos enfocadas en eficiencia y rendimiento.
+Simulador de una lista de contactos de teléfono, aplicando listas dobles enlazadas, además de poder agregar, quitar y modificar cada uno de ellos. Independiente selección con sus respectiva información.
 </p>
 
 <b>⚙️ Tecnologías</b>
 
 <br><br>
 
-Java • Python
+Java 
 
 <br><br>
 
-<a href="https://github.com/TU-USUARIO/estructuras-algoritmos">
+<a href="https://github.com/Christian777-Ing/Proyecto-Estructura-Grupo13.git">
 <img src="https://img.shields.io/badge/Repositorio-FF4D4D?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
