@@ -1,67 +1,125 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmJyZzZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="35"> Perfil Profesional | Christian Zavala
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ecc71&center=true&vCenter=true&width=500&lines=Estudiante+de+Computación+ESPOL;Enfoque+en+Clean+Code;Especialista+en+Arquitectura+MVC;Machine+Learning+Enthusiast" alt="Typing SVG" />
-</p>
-
-> Estudiante de Computación en la **ESPOL** con un enfoque riguroso en la creación de **código limpio, organizado y mantenible**. Mi pasión radica en la intersección entre la arquitectura de software y el **Machine Learning**. Con experiencia práctica desarrollando sistemas bajo el patrón MVC y gestión de bases de datos, aspiro a aplicar soluciones tecnológicas de alto impacto en el **sector financiero (Fintech/Banca)**.
-
----
-
-## 🚀 Proyectos y Logros Clave
-
-### 🏦 Simulador Bancario Pro (Java & MySQL)
-*Desarrollo de un sistema de gestión financiera con arquitectura profesional.*
-*   **Arquitectura:** Implementación del patrón **MVC (Modelo-Vista-Controlador)**.
-*   **Persistencia:** Gestión de DB relacional mediante **MySQL Connector**, aplicando lógica de transacciones seguras.
-*   **Hito:** Recreación de flujos bancarios reales, depósitos y validación de integridad de datos.
-*   🔗 [**Ver repositorio**](https://github.com/Christian777-Ing/Proyecto-Simulador-Bancario.git)
-
-### 🎓 Certificación Samsung Innovation Campus (SIC)
-*Programa intensivo en Python e Inteligencia Artificial.*
-*   **Machine Learning:** Desarrollo de modelos predictivos y análisis profundo de datos.
-*   **Hackatón:** Soluciones tecnológicas bajo presión y resolución de problemas lógicos.
-*   🔗 [**Ver repositorio de actividades**](https://github.com/Christian777-Ing/SIC-Aulas-EC03-EC04)
-
----
-
-## 🛠️ Stack Tecnológico
+# 👨🏻‍💻 Christian Zavala
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,js,html,css,git,github,linux,maven" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=1000&color=2ecc71&center=true&vCenter=true&width=700&lines=Estudiante+de+Computer+Science+@+ESPOL;Backend+Developer+%7C+Java+%2B+Python;Clean+Code+%26+MVC+Architecture;Apasionado+por+el+sector+Fintech+y+IA+✨" />
+
 </div>
 
-### ⚙️ Metodologías y Enfoque
-*   **Clean Code:** Código legible, organizado y fácil de mantener.
-*   **Arquitectura:** Modelo-Vista-Controlador (MVC) y POO avanzada.
-*   **IA & Data Science:** Machine Learning y Jupyter Notebooks.
+---
+
+## 🚀 Sobre mí
+
+🎓 Estudiante de **Ingeniería en Ciencias de la Computación** en **ESPOL**  
+🏦 Enfocado en el desarrollo de soluciones para el **Sector Financiero y Bancario**  
+💻 Especialista en escribir **Código Limpio (Clean Code)** y mantenible  
+🧠 Entusiasta del **Machine Learning** y la optimización de algoritmos  
+🌐 Conocimientos en **Networking** e infraestructura de redes  
 
 ---
 
-## 📊 Estadísticas de GitHub
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Christian777-Ing&show_icons=true&theme=nord&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian777-Ing&layout=compact&theme=nord&hide_border=true" />
-</p>
+# 💻 Tecnologías y Herramientas
+
+<div align="center">
+
+### ⚙️ Backend & Core Development
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MVC_Pattern-2ecc71?style=for-the-badge&logo=architecture&logoColor=white">
+
+<br><br>
+
+### 🛠️ Herramientas e Infraestructura
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Cisco-005A70?style=for-the-badge&logo=cisco&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+
+</div>
 
 ---
 
-## 📈 Objetivos Profesionales
-- 🎯 Especializarme en el desarrollo de sistemas transaccionales seguros.
-- 🧠 Aplicar **Machine Learning** para la optimización de procesos financieros.
-- 🔍 Investigar tecnologías emergentes para mejorar la escalabilidad del software.
+# 📚 Formación Académica
+
+### 🎓 Ingeniería en Ciencias de la Computación — ESPOL
+
+### 🤖 Samsung Innovation Campus — Python & AI Specialist
+Programa intensivo enfocado en algoritmos de Machine Learning, procesamiento de datos y resolución de problemas bajo metodologías ágiles.
 
 ---
 
-## 📫 Contacto
-<p align="left">
-  <a href="mailto:cezavala@espol.edu.ec"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+# 🏅 Certificaciones
+
+## 🌐 Cisco Networking Academy — CCNA: Introduction to Networks
+📅 **Expedición:** Enero 2026  
+Curso enfocado en fundamentos de redes, direccionamiento IP, configuración básica de routers y switches, y protocolos de comunicación.
+
+## 🐍 Samsung Innovation Campus (SIC) — Python & IA
+📅 **Expedición:** 2026  
+Certificación en desarrollo de modelos predictivos y análisis de datos avanzado.
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ecc71&height=100&section=footer" />
-</p>
 
-⭐ *“La disciplina y el aprendizaje continuo son la base del crecimiento en tecnología.”*
+# 🚀 Proyectos Seleccionados
+
+<div align="center">
+
+| Proyecto | Descripción | Tecnología Clave |
+|---|---|---|
+| 🏦 **Banca Móvil Sim** | Simulador transaccional con persistencia en DB y arquitectura modular MVC. | Java + MySQL |
+| 🤖 **AI Model SIC** | Implementación de modelos predictivos desarrollados durante el programa Samsung. | Python + Scikit-Learn |
+| ⚙️ **Estructuras G13** | Optimización de algoritmos y gestión eficiente de memoria. | Python / Java |
+
+</div>
+
+---
+
+# 🌟 Intereses y Metas
+
+- 🏦 **Fintech:** Desarrollo de sistemas bancarios seguros y escalables.
+- 🧹 **Clean Code:** Aplicación de principios SOLID y patrones de diseño.
+- 🧠 **AI Applied:** Integración de inteligencia artificial en entornos de producción.
+- 📡 **Networking:** Optimización de la comunicación y seguridad en redes de datos.
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Christian777-Ing&show_icons=true&theme=nord&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian777-Ing&layout=compact&theme=nord&hide_border=true"/>
+
+</div>
+
+---
+
+# 📫 Contáctame
+
+<div align="center">
+
+<a href="mailto:cezavala@espol.edu.ec">
+<img src="https://img.shields.io/badge/📧%20cezavala%40espol.edu.ec-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/christian-zavala-araujo-12205a333/">
+<img src="https://img.shields.io/badge/LinkedIn-Christian%20Zavala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ *“La disciplina y el aprendizaje continuo son la base del crecimiento en tecnología.”*
+
+</div>
