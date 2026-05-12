@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=1000&color=2ecc71&center=true&vCenter=true&width=700&lines=Estudiante+de+Computer+Science+@+ESPOL;Backend+Developer+%7C+Java+%2B+Python;Clean+Code+%26+MVC+Architecture;Apasionado+por+el+sector+Fintech+y+IA+✨" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=1000&color=FF4D4D&center=true&vCenter=true&width=850&lines=Computer+Science+Student+%26+Backend+Developer;Building+Scalable+Applications+with+Java+%26+Python;Focused+on+Clean+Code%2C+MVC+%26+Software+Architecture;Interested+in+Fintech%2C+Artificial+Intelligence+%26+Innovation" />
 
 </div>
 
@@ -85,18 +85,6 @@ Certificación en desarrollo de modelos predictivos y análisis de datos avanzad
 - 🧹 **Clean Code:** Aplicación de principios SOLID y patrones de diseño.
 - 🧠 **AI Applied:** Integración de inteligencia artificial en entornos de producción.
 - 📡 **Networking:** Optimización de la comunicación y seguridad en redes de datos.
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Christian777-Ing&show_icons=true&theme=nord&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian777-Ing&layout=compact&theme=nord&hide_border=true"/>
-
-</div>
 
 ---
 
