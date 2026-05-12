@@ -35,14 +35,6 @@
 
 <br><br>
 
-## 🏗️ Arquitectura y Buenas Prácticas
-
-<img src="https://img.shields.io/badge/Clean_Architecture-FF4D4D?style=for-the-badge">
-<img src="https://img.shields.io/badge/MVC_Pattern-2ecc71?style=for-the-badge">
-<img src="https://img.shields.io/badge/SOLID_Principles-8e44ad?style=for-the-badge">
-
-<br><br>
-
 ## ⚙️ Herramientas e Infraestructura
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -122,13 +114,15 @@ Enfoque en:
 <div align="center">
 
 <a href="mailto:cezavala@espol.edu.ec">
-<img src="https://img.shields.io/badge/Email-cezavala%40espol.edu.ec-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/📩%20Email-181717?style=for-the-badge&logo=gmail&logoColor=FF4D4D&labelColor=0D1117">
 </a>
 
-<br><br>
-
 <a href="https://www.linkedin.com/in/christian-zavala-araujo-12205a333/">
-<img src="https://img.shields.io/badge/LinkedIn-Christian%20Zavala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117">
+</a>
+
+<a href="https://github.com/ChristianZavala">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117">
 </a>
 
 </div>
