@@ -67,7 +67,7 @@
 
 ## 🏦 Simulador Bancario
 
-Aplicación backend desarrollada con arquitectura MVC y persistencia en MySQL para simular operaciones bancarias.
+Aplicación backend desarrollada con arquitectura MVC y persistencia en MySQL para simular operaciones bancarias reales incluyendo depósito, transferencias, retiros con historial incluido.
 
 ### ⚙️ Tecnologías
 `Java` `MySQL` `MVC`
@@ -82,7 +82,7 @@ Aplicación backend desarrollada con arquitectura MVC y persistencia en MySQL pa
 
 ## 🤖 Modelos Predictivos IA
 
-Proyecto enfocado en Machine Learning y análisis de datos desarrollado durante Samsung Innovation Campus.
+Proyecto enfocado en Machine Learning, análisis y limpieza de datos desarrollado durante Samsung Innovation Campus.
 
 ### ⚙️ Tecnologías
 `Python` `Scikit-Learn`
