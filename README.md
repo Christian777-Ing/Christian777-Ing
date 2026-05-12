@@ -61,18 +61,14 @@ Clean Architecture • MVC Pattern • SOLID • Programación Orientada a Objet
 
 <td width="33%">
 
-<h3>🏦 Simulador Bancario</h3>
+## 🏦 Simulador Bancario
 
-<p>
 Aplicación backend desarrollada con arquitectura MVC y persistencia en MySQL para simular operaciones bancarias.
-</p>
 
-<b>⚙️ Tecnologías</b><br>
-Java • MySQL • MVC
+### ⚙️ Tecnologías
+`Java` `MySQL` `MVC`
 
-<br><br>
-
-<a href="LINK">
+<a href="https://github.com/TU-USUARIO/simulador-bancario">
 <img src="https://img.shields.io/badge/Repositorio-FF4D4D?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
